@@ -1,8 +1,8 @@
 - 👋 名前： 「末永 宏（すえなが ひろし）」 GitHUB（@suenaga-h）
-- 👀 興味： 音楽
-- 🌱 勉強中：　Java,aws
+- 👀 興味： 家屋
+- 🌱 勉強中：　倉庫
 - 💞️ I’m looking to collaborate on ...
-- 📫 連絡： Slack（＠suenaga.h） email(suenaga.h@world-wing.com)
+- 📫 連絡： 
 
 <!---
 suenaga-h/suenaga-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
